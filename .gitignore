@@ -105,3 +105,6 @@ temp/
 *.tar
 *.gz
 *.7z
+
+# book 
+book/ 
